@@ -1,0 +1,5 @@
+{
+  "name": "AisleShield",
+  "description": "Mobile privacy utility for automated store-mode protection and retail app auditing.",
+  "requestFramePermissions": ["geolocation"]
+}
